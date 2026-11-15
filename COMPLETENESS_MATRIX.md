@@ -2,14 +2,14 @@
 
 AI Governance Curriculum · Level 25 · [learning](https://github.com/ai-governance-curriculum/ai-risk-engineer-learning) · [solutions](https://github.com/ai-governance-curriculum/ai-risk-engineer-solutions)
 
-_Generated 2026-11-08 by `aicg org completeness`._
+_Generated 2026-11-15 by `aicg org completeness`._
 
-**Overall: 54%**
+**Overall: 88%**
 
 | | Progress | Count |
 |---|---|---|
 | Learning | `██████████` 100% | 12/12 modules complete |
-| Solutions | `█░░░░░░░░░` 8% | 5/65 exercises solved |
+| Solutions | `████████░░` 77% | 50/65 exercises solved |
 
 ## Modules
 
@@ -18,15 +18,15 @@ _Generated 2026-11-08 by `aicg org completeness`._
 | `mod-101-ai-risk-frameworks-and-position` | ✅ Complete | 15,008 | 6 | 5 | — | 5/5 |
 | `mod-102-harm-modelling-and-risk-taxonomy` | ✅ Complete | 17,843 | 6 | 5 | — | 0/5 |
 | `mod-103-risk-quantification-and-registers` | ✅ Complete | 24,933 | 7 | 5 | — | 0/5 |
-| `mod-104-llm-red-teaming-and-attack-engineering` | ✅ Complete | 28,332 | 6 | 6 | — | 0/6 |
-| `mod-105-adversarial-ml-and-robustness` | ✅ Complete | 25,973 | 6 | 5 | — | 0/5 |
-| `mod-106-fairness-bias-and-explainability-engineering` | ✅ Complete | 29,019 | 6 | 6 | — | 0/6 |
-| `mod-107-privacy-risk-engineering` | ✅ Complete | 28,744 | 6 | 5 | — | 0/5 |
-| `mod-108-guardrail-engineering-and-effectiveness` | ✅ Complete | 30,265 | 6 | 6 | — | 0/6 |
+| `mod-104-llm-red-teaming-and-attack-engineering` | ✅ Complete | 28,332 | 6 | 6 | — | 6/6 |
+| `mod-105-adversarial-ml-and-robustness` | ✅ Complete | 25,973 | 6 | 5 | — | 5/5 |
+| `mod-106-fairness-bias-and-explainability-engineering` | ✅ Complete | 29,019 | 6 | 6 | — | 6/6 |
+| `mod-107-privacy-risk-engineering` | ✅ Complete | 28,744 | 6 | 5 | — | 5/5 |
+| `mod-108-guardrail-engineering-and-effectiveness` | ✅ Complete | 30,265 | 6 | 6 | — | 6/6 |
 | `mod-109-continuous-monitoring-and-risk-register-integration` | ✅ Complete | 27,131 | 6 | 5 | — | 0/5 |
-| `mod-110-model-risk-management-and-supply-chain` | ✅ Complete | 28,897 | 6 | 6 | — | 0/6 |
-| `mod-111-incident-response-and-postmortems` | ✅ Complete | 27,829 | 6 | 5 | — | 0/5 |
-| `mod-112-cross-functional-ai-risk-program-and-communication` | ✅ Complete | 27,345 | 6 | 6 | — | 0/6 |
+| `mod-110-model-risk-management-and-supply-chain` | ✅ Complete | 28,897 | 6 | 6 | — | 6/6 |
+| `mod-111-incident-response-and-postmortems` | ✅ Complete | 27,829 | 6 | 5 | — | 5/5 |
+| `mod-112-cross-functional-ai-risk-program-and-communication` | ✅ Complete | 27,345 | 6 | 6 | — | 6/6 |
 
 ## How this is calculated
 
