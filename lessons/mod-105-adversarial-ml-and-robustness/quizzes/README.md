@@ -1,3 +1,3 @@
 # Adversarial ML and Robustness Engineering quizzes
 
-Authored under the autonomous fill-in loop.
+- [`quiz-01-adversarial-ml-and-robustness.md`](quiz-01-adversarial-ml-and-robustness.md) — 12 multiple-choice questions, one or two per chapter, covering the NIST AI 100-2 e2025 six-category taxonomy and the three-axis threat-model rubric with the ATLAS / OWASP ML Top 10 overlay discipline, the ART / TextAttack evasion-panel shape (FGSM floor, PGD reference first-order, C&W defence-defeat check) with perturbation-budget curves and adaptive-attack rule, the poisoning-attack taxonomy and the detection-rate-plus-clean-FPR measurement matrix, the shared defence set across extraction / inversion / MIA and the mod-107 handoff for formal privacy accounting, the seven-section robustness-eval report, and the level-25 → level-35 handoff contract with its double-owned / orphan-owned failure modes.
