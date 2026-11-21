@@ -1,5 +1,9 @@
 # Labs for mod-106-fairness-bias-and-explainability-engineering (Fairness, Bias, and Explainability Engineering)
 
-Planned labs:
+Guided practice labs for the module. Each lab is a 45-minute drill of an atomic *output-shape* authoring skill — on fabricated-but-plausible numbers, against a fixed running system (`ShortList`, a NYC software-engineering shortlist classifier in LL144 scope). The labs *complement* the exercises: the exercises run the real tools against your running model, the labs drill the report-shape skills the exercises assume you already have.
 
-- `lab-01` — lab-01
+- [`lab-01-metric-choice-five-liner-drill.md`](lab-01-metric-choice-five-liner-drill.md) — authoring the chapter-01 metric-choice five-liner plus the impossibility-collision paragraph on a fixed fabricated hiring-shortlist scenario. Drills the "pin-metric-before-run" discipline that forecloses metric roulette and metric monism.
+- [`lab-02-slice-report-authoring-drill.md`](lab-02-slice-report-authoring-drill.md) — authoring the chapter-02 Fairlearn slice-report shape (per-group table, intersectional sex × race/ethnicity cells, Wilson 95 % CIs, `low-power` flags, four-fifths ratios, headline verdict, unmitigated-baseline block, reproducibility manifest) from fabricated per-cell counts. Drills the eight-section shape that discharges chapter 02's four anti-patterns.
+- [`lab-03-ll144-report-skeleton-drill.md`](lab-03-ll144-report-skeleton-drill.md) — packaging the lab-01 and lab-02 outputs into the chapter-06 NYC Local Law 144 13-section report skeleton, the EEOC adverse-impact seven-field block, the public summary, the L15 / L25 / independent-auditor split memo, and the external auditor's 15-item reviewer checklist. Drills the audit-filing shape that the L15 analyst reads and the independent auditor signs.
+
+Together the three labs drill the atomic shape-authoring skills that exercises 01, 02, and 06 depend on — so when the exercises run on your real running model, the time goes to engineering judgement, not to inventing the output format.
