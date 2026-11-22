@@ -1,3 +1,5 @@
 # Privacy-Risk Engineering for ML and LLM Systems quizzes
 
-Authored under the autonomous fill-in loop.
+Knowledge-check quizzes for the module. Open-book — the quizzes test understanding of the chapter concepts, not phrasing recall. Each question's answer key cites the chapter the answer comes from.
+
+- [`quiz-01-privacy-risk-engineering.md`](quiz-01-privacy-risk-engineering.md) — 12 multiple-choice questions covering chapters 01–06 (the four-attack taxonomy and the deployment-shape applicability table; Shokri + LiRA and the TPR-at-fixed-FPR reporting discipline; MIA slice worst-cases; the LLM memorisation / verbatim-extraction eval with its prompt-budget × elicitation-strategy conditioning; the model-inversion danger shape for small-population classifiers; DP-SGD (ε, δ) interpretation and the three-grounds defence, including the six operational failure modes and the record-level-vs-user-level DP distinction; the Presidio three-position pipeline and the custom-recogniser calibration discipline; and the chapter-06 privacy-risk report with its GDPR Article 22 anchor and its two boundaries — out to legal counsel and to `model-evaluation-engineer` at level 30).
