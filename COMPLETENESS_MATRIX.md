@@ -2,7 +2,7 @@
 
 AI Governance Curriculum · Level 25 · [learning](https://github.com/ai-governance-curriculum/ai-risk-engineer-learning) · [solutions](https://github.com/ai-governance-curriculum/ai-risk-engineer-solutions)
 
-_Generated 2026-11-15 by `aicg org completeness`._
+_Generated 2026-11-22 by `aicg org completeness`._
 
 **Overall: 88%**
 
@@ -15,13 +15,13 @@ _Generated 2026-11-15 by `aicg org completeness`._
 
 | Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
 |---|---|---|---|---|---|---|
-| `mod-101-ai-risk-frameworks-and-position` | ✅ Complete | 15,008 | 6 | 5 | — | 5/5 |
-| `mod-102-harm-modelling-and-risk-taxonomy` | ✅ Complete | 17,843 | 6 | 5 | — | 0/5 |
-| `mod-103-risk-quantification-and-registers` | ✅ Complete | 24,933 | 7 | 5 | — | 0/5 |
-| `mod-104-llm-red-teaming-and-attack-engineering` | ✅ Complete | 28,332 | 6 | 6 | — | 6/6 |
-| `mod-105-adversarial-ml-and-robustness` | ✅ Complete | 25,973 | 6 | 5 | — | 5/5 |
-| `mod-106-fairness-bias-and-explainability-engineering` | ✅ Complete | 29,019 | 6 | 6 | — | 6/6 |
-| `mod-107-privacy-risk-engineering` | ✅ Complete | 28,744 | 6 | 5 | — | 5/5 |
+| `mod-101-ai-risk-frameworks-and-position` | ✅ Complete | 21,932 | 6 | 5 | — | 5/5 |
+| `mod-102-harm-modelling-and-risk-taxonomy` | ✅ Complete | 26,285 | 6 | 5 | — | 0/5 |
+| `mod-103-risk-quantification-and-registers` | ✅ Complete | 35,460 | 7 | 5 | — | 0/5 |
+| `mod-104-llm-red-teaming-and-attack-engineering` | ✅ Complete | 39,927 | 6 | 6 | — | 6/6 |
+| `mod-105-adversarial-ml-and-robustness` | ✅ Complete | 38,451 | 6 | 5 | — | 5/5 |
+| `mod-106-fairness-bias-and-explainability-engineering` | ✅ Complete | 44,181 | 6 | 6 | — | 6/6 |
+| `mod-107-privacy-risk-engineering` | ✅ Complete | 46,468 | 6 | 5 | — | 5/5 |
 | `mod-108-guardrail-engineering-and-effectiveness` | ✅ Complete | 30,265 | 6 | 6 | — | 6/6 |
 | `mod-109-continuous-monitoring-and-risk-register-integration` | ✅ Complete | 27,131 | 6 | 5 | — | 0/5 |
 | `mod-110-model-risk-management-and-supply-chain` | ✅ Complete | 28,897 | 6 | 6 | — | 6/6 |
